@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    background-color: #041948;
+}
+
+#wrapper {
+    margin: 100px auto;
+    padding: 10px;
+    max-width: 1400px;
+    background-color: #092461;
+    
+}
+
+h1 {
+    display: block;
+    margin: 50px auto;
+    width: 300px;
+    text-align: center;
+    border: 2px solid #000;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: "impact";
+    background-color: #3b5798;
+    background-color: #ff9f00;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    
+}
